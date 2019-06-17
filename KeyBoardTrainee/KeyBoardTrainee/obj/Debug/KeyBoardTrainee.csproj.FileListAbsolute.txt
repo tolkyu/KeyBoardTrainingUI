@@ -1,0 +1,30 @@
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.csprojAssemblyReference.cache
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\MainWindow.g.cs
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\App.g.cs
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee_MarkupCompile.cache
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee_MarkupCompile.lref
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\bin\Debug\KeyBoardTrainee.exe.config
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\bin\Debug\KeyBoardTrainee.exe
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\bin\Debug\KeyBoardTrainee.pdb
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\MainWindow.baml
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.g.resources
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.Properties.Resources.resources
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.csproj.GenerateResource.cache
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.exe
+C:\Users\prwdi\source\repos\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.pdb
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\bin\Debug\KeyBoardTrainee.exe.config
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\bin\Debug\KeyBoardTrainee.exe
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\bin\Debug\KeyBoardTrainee.pdb
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.csprojAssemblyReference.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\MainWindow.g.cs
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\App.g.cs
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee_MarkupCompile.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee_MarkupCompile.lref
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\MainWindow.baml
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.g.resources
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.Properties.Resources.resources
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.csproj.GenerateResource.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.exe
+C:\Users\prwdi\OneDrive\Рабочий стол\KeyBoardTrainee\KeyBoardTrainee\obj\Debug\KeyBoardTrainee.pdb
